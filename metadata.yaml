@@ -1,5 +1,8 @@
 _repo: The-Three-Golden-Apples-From---A-Wonder-Book-for-Girls-and-Boys--_9257
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hawthorne, Nathaniel
@@ -11,6 +14,8 @@ creator:
 description: Describes how the hero Hercules searched for the golden apples that grew
   in the garden of the Hesperides, encountering such adversaries as the Old Man of
   the Sea and the giant Atlas.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9257#The-Three-Golden-Apples-From---A-Wonder-Book-for-Girls-and-Boys--
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
